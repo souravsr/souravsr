@@ -5,11 +5,11 @@
   I’m <strong>Sourav Roy</strong>, a final year Computer Engineering student at Army Institute of Technology Pune.
 </p>
 
-<ul>
-    <li>- 👀 I’m interested in developing new applications that solve real world problems.</li> 
-    <li>- 🌱 I’m currently learning Vue.js</li>
-    <li>- 💞️ I’m looking for a SDE role.</li>
-    <li>- 📫 Reach me at <a href="https://www.linkedin.com/">LinkedIn</a></li>
+<ul style="list-style:none">
+    <li>  👀 I’m interested in developing new applications that solve real world problems.</li> 
+    <li>  🌱 I’m currently learning Vue.js</li>
+    <li>  💞️ I’m looking for a SDE role.</li>
+    <li>  📫 Reach me at <a href="https://www.linkedin.com/">LinkedIn</a></li>
 </ul>
 <!---
 souravsr/souravsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
