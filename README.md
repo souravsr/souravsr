@@ -5,7 +5,7 @@
   I’m <strong>Sourav Roy</strong>, a final year Computer Engineering student at Army Institute of Technology Pune.
 </p>
 
-<ul style="list-style:none">
+<ul style="list-style: none;">
     <li>  👀 I’m interested in developing new applications that solve real world problems.</li> 
     <li>  🌱 I’m currently learning Vue.js</li>
     <li>  💞️ I’m looking for a SDE role.</li>
