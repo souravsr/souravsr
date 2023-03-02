@@ -2,12 +2,15 @@
   <h3>
     Hi, 👋
   </h3>
-  I’m <strong>Sourav Roy</strong>, a final year Computer Engineering student at Army Institute of Technology Pune.
+  I’m <strong>Sourav Roy</strong>, a Computer Engineering Graduate from Army Institute of Technology Pune.
+</p>
+<p>
+  I'm working as <strong> Software Engineer</strong> at <strong> Persistent Systems</strong>
 </p>
 
 <ul style="list-style: none;">
     <li>  👀 I’m interested in developing new applications that solve real world problems.</li> 
-    <li>  🌱 I’m currently learning Vue.js</li>
+    <li>  🌱 I’m currently learning DevOps Tools</li>
     <li>  💞️ I’m looking for a SDE role.</li>
     <li>  📫 Reach me at <a href="https://www.linkedin.com/">LinkedIn</a></li>
 </ul>
